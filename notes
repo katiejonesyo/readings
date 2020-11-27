@@ -1,0 +1,60 @@
+
+Quantity Trumps Quality:
+"When it comes to software, the same rule applies. 
+If you aren't building, you aren't learning. 
+Rather than agonizing over whether you're building the right thing, just build it. 
+And if that one doesn't work, keep building until you get one that does."
+
+
+
+
+
+
+
+Clean Code-Chapter 1:
+
+"Of course you have been impeded by bad code. So then—why did you write it?"
+This book is one that has grabbed my attention much more that I assumed it was going to. 
+It has great examples and stories to go along with it's explanations. I feel there is 
+a lot to be learned in this book and I can't wait to see what else it has to show me.
+
+What I have learned so far though, is that bad code is sloppy, commented out stuff that could 
+have been erased, syntax errors, functions that go nowhere. 
+Basically, things that have no use and could have been deleted but weren't and even though the code works, it's ugly and bad.
+Good code is orangized, simple, "clean", and functioning. In this book, it also mentions
+multiple developers and people of interest to express their ideas of good and bad code.
+
+
+
+
+
+
+
+
+
+
+TDD-red-green-refactor:
+"Test-driven development (TDD) is an approach to software development where you write tests first, then use those tests to drive 
+the design and development of your software application.
+
+In this article, you will learn about a TDD approach called red, green, refactor, a framework that developers
+ use to build a test suite, write implementation code, 
+and optimize their codebase in short development cycles."
+I am pretty excited about the idea of testing first then writing code around the tests.
+I am pretty use to the practice of writing code THEN testing the code. Interesting concept.
+
+
+
+
+
+Cycle of TDD:
+
+"Three Laws of TDD.
+1.You must write a failing test before you write any production code.
+2.You must not write more of a test than is sufficient to fail, or fail to compile.
+3.You must not write more production code than is sufficient to make the currently failing test pass."
+
+
+These were all things I have been doing backwards haha. 
+Overall, what I got from this article was to write a code tthat will fail, make it work but writing code around it,
+then once it works, clean it up. Sounds easy enough.
